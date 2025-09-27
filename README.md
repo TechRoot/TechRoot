@@ -176,16 +176,6 @@
 
 </div>
 
-### Certifications
-<div align="center">
-
-<!-- Replace with your real certifications; remove examples if not applicable -->
-<!-- ![Microsoft AZ-104](https://img.shields.io/badge/Microsoft%20AZ--104-0078D4?logo=microsoftazure&logoColor=white) -->
-<!-- ![Microsoft MS-900](https://img.shields.io/badge/Microsoft%20MS--900-0078D4?logo=microsoft&logoColor=white) -->
-<!-- ![ITIL Foundation](https://img.shields.io/badge/ITIL%20Foundation-602B65) -->
-<!-- ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-E31C3D?logo=comptia&logoColor=white) -->
-
-</div>
 
 ---
 
