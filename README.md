@@ -1,8 +1,4 @@
-# Profile Skills & Stacks
-
-> Edit tip: sections are pure Markdown titles; badges are inside simple `<div align="center">` blocks so everything stays **centered** and **wraps** responsively on GitHub. Add/remove badges by deleting a line. No collapsibles, no complex HTML.
-
-## Skills & Tooling (Professional)
+## Skills & Tooling
 
 ### Core & PM
 <div align="center">
@@ -130,11 +126,6 @@
 ![7-Zip](https://img.shields.io/badge/7--Zip-222222)
 ![NSIS](https://img.shields.io/badge/NSIS-111827)
 
-</div>
-
-### Hosting · Infra
-<div align="center">
-
 ![Reverse Proxy](https://img.shields.io/badge/Reverse%20Proxy-1F2937)
 ![Firewalling](https://img.shields.io/badge/Firewalling-334155)
 ![Backups](https://img.shields.io/badge/Backups-0B7285)
@@ -168,20 +159,10 @@
 
 </div>
 
-### Languages
-<div align="center">
-
-![Spanish (Native)](https://img.shields.io/badge/Spanish-Native-2E7D32)
-![English (C1)](https://img.shields.io/badge/English-C1%20Professional-1565C0)
-
-</div>
-
-
 ---
 
-## Game & Creative Stack (at the end)
+## Game & Creative Stack 
 
-### Game Engines & DCC
 <div align="center">
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white)
@@ -192,12 +173,7 @@
 ![glTF](https://img.shields.io/badge/glTF-2F4F4F)
 ![USD](https://img.shields.io/badge/USD-0B7285)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-111827)
-<!-- ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) -->
-
-</div>
-
-### Art · Texturing · Baking
-<div align="center">
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Substance 3D Painter](https://img.shields.io/badge/Substance%203D%20Painter-FF7700?logo=adobecreativecloud&logoColor=white)
@@ -208,11 +184,6 @@
 ![xNormal](https://img.shields.io/badge/xNormal-475569)
 ![UV Unwrap](https://img.shields.io/badge/UV%20Unwrap-0A84FF)
 ![PBR](https://img.shields.io/badge/PBR-334155)
-
-</div>
-
-### Baldur’s Gate 3 · Modding & Tooling
-<div align="center">
 
 ![LSLib / Divine](https://img.shields.io/badge/LSLib%20%2F%20Divine-111827)
 ![BG3 Script Extender](https://img.shields.io/badge/BG3%20Script%20Extender-0F172A)
@@ -263,4 +234,7 @@
 ![2DA](https://img.shields.io/badge/2DA-1F2937)
 ![TLK](https://img.shields.io/badge/TLK-0B7285)
 
+
+![Spanish (Native)](https://img.shields.io/badge/Spanish-Native-2E7D32)
+![English (C1)](https://img.shields.io/badge/English-C1%20Professional-1565C0)
 </div>
