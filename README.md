@@ -234,7 +234,11 @@
 ![2DA](https://img.shields.io/badge/2DA-1F2937)
 ![TLK](https://img.shields.io/badge/TLK-0B7285)
 
+</div>
 
+---
+
+<div align="center">
 ![Spanish (Native)](https://img.shields.io/badge/Spanish-Native-2E7D32)
 ![English (C1)](https://img.shields.io/badge/English-C1%20Professional-1565C0)
 </div>
