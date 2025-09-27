@@ -237,11 +237,6 @@
 ![Icons / DDS](https://img.shields.io/badge/Icons%20%2F%20DDS-9CA3AF)
 ![Story / Osiris](https://img.shields.io/badge/Story%20%2F%20Osiris-6B7280)
 
-</div>
-
-### Minecraft · Custom Servers
-<div align="center">
-
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106)
 ![Paper](https://img.shields.io/badge/Paper-64748B)
 ![Purpur](https://img.shields.io/badge/Purpur-7C3AED)
@@ -255,21 +250,11 @@
 ![WorldEdit](https://img.shields.io/badge/WorldEdit-0ea5e9)
 ![WorldGuard](https://img.shields.io/badge/WorldGuard-ef4444)
 
-</div>
-
-### ARK · Custom Servers
-<div align="center">
-
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-171A21?logo=steam&logoColor=white)
 ![ARK Server Manager](https://img.shields.io/badge/ARK%20Server%20Manager-111827)
 ![ARK Server API](https://img.shields.io/badge/ARK%20Server%20API-374151)
 ![RCON](https://img.shields.io/badge/RCON-1F2937)
 ![Mod Workshop IDs](https://img.shields.io/badge/Mod%20Workshop%20IDs-0B7285)
-
-</div>
-
-### WoW · Private Servers (Emulation)
-<div align="center">
 
 ![TrinityCore](https://img.shields.io/badge/TrinityCore-0F172A)
 ![AzerothCore](https://img.shields.io/badge/AzerothCore-111827)
@@ -279,11 +264,6 @@
 ![DBC & Maps](https://img.shields.io/badge/DBC%20%26%20Maps-475569)
 ![Auth/World/Characters DB](https://img.shields.io/badge/Auth%2FWorld%2FCharacters%20DB-0A84FF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-</div>
-
-### Neverwinter Nights · Servers & Tooling
-<div align="center">
 
 ![NWN EE Dedicated](https://img.shields.io/badge/NWN%20EE%20Dedicated-111827)
 ![NWScript](https://img.shields.io/badge/NWScript-0F172A)
