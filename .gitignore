@@ -1,0 +1,23 @@
+/Temp/
+/Build/
+/Packed/
+/Cache/
+/Logs/
+/_Logs/
+/__pycache__/
+*.log
+*.tmp
+*.bak
+
+# Binarios del engine/editor
+*.pak
+*.wem
+*.bnk
+*.usm
+
+
+# IDE / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
